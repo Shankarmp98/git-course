@@ -1,1 +1,3 @@
 Hello world.....FirstCode.txt!!!!
+Take inputs from user
+Add the values
